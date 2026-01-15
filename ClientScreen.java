@@ -33,7 +33,7 @@ public class ClientScreen extends JPanel implements ActionListener,KeyListener {
         this.setLayout(null);
         this.setFocusable(true);
 		this.addKeyListener(this);
-		ip = "10.210.15.144";
+		ip = "10.210.84.196";
 
 		blueScore = "0";
 		redScore = "0";
